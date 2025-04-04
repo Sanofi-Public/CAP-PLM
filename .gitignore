@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.DS_Store
+*.pkl
+*.txt
+All_Mutations_Bryant_Predictions.csv
+!requirements.txt
+!LICENSE.txt
+*~
